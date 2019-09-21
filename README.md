@@ -3,7 +3,7 @@ Jure Leskovec, Anand Rajaraman and Jeff Ullman welcome you to the self-paced ver
 
 In this course, you will learn many of the interesting algorithms that have been developed for efficient processing of large amounts of data in order to extract simple and useful models of that data.  These techniques are often used to predict properties of future instances of the same sort of data, or simply to make sense of the data already available.  Many people view data mining, or "big data" as machine learning.  There are indeed some techniques for processing large datasets that can be considered machine learning, and we shall cover a number of these.  But there are also many algorithms and ideas for dealing with big data that are not usually classified as machine learning, and we shall cover many of these as well.
 
-![data-mining](data-mining.jpeg)
+![data-mining](data-mining.jpg)
 
 ## Course Outline
 The course is divided into 15 modules of videos and homeworks and a final exam. In the synchronous version of the course, the material is intended to be covered in seven weeks. However, you are free to spend more or less time learning this material. Here is a list of the 15 modules:
